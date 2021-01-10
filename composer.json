@@ -1,5 +1,5 @@
 {
-    "name": "wark/miniostorage",
+    "name": "bbcreation/miniostorage",
     "description": "minio oss filesystem storage for laravel 5+",
     "keywords": ["oss", "laravel", "filesystems", "storage"],
     "require": {
