@@ -1,6 +1,6 @@
 <?php
 
-namespace WArk\Minio\Providers;
+namespace bbcreation\Minio\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use WArk\Minio\MinioStorage;

@@ -1,6 +1,6 @@
 <?php
 
-namespace WArk\Minio;
+namespace bbcreation\Minio;
 
 use Aws\S3\S3Client;
 class MinioStorage

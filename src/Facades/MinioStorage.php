@@ -1,6 +1,6 @@
 <?php
 
-namespace WArk\Minio\Facades;
+namespace bbcreation\Minio\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
