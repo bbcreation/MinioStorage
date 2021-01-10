@@ -20,6 +20,7 @@ class MinioStorage
 		$this->objS3 = new S3Client([
             'version' => 'latest',
             'region'  => 'us-east-1',
+	    'use_path_style_endpoint' => true,
             'endpoint' => $this->endpoint,
             'credentials' => [
                 'key'    => $this->key,
