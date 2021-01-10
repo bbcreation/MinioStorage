@@ -17,7 +17,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "WArk\\Minio\\": "src/"
+            "bbcreation\\Minio\\": "src/"
         }
     },
     "prefer-stable": true
